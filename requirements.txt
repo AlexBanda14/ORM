@@ -1,0 +1,7 @@
+для работы данной программы требуется установка следующих библиотек:
+psycopg2
+sqlalchemy
+
+pip install psycopg2-binary
+
+pip install sqlalchemy
